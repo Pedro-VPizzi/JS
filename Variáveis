@@ -1,0 +1,11 @@
+var nomePessoa = "Pedro"
+
+const emailPessoa = "pedropizzi53@gmail.com"
+
+let numeroPessoa = "00000000000"
+
+numeroPessoa = "11111111111"
+
+console.log(nomePessoa)
+console.log(emailPessoa)
+console.log(numeroPessoa)
