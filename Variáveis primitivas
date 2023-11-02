@@ -1,0 +1,14 @@
+/*
+string
+int
+number
+null
+undefined
+*/
+
+let nome = "Pedro"
+let numero = 100
+let usuarioVerificado = true
+let pessoa = null
+let telefone = undefined
+console.log(telefone)
